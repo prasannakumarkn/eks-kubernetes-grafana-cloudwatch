@@ -17,7 +17,7 @@ data:
                         "authType": "arn",
                         "defaultRegion": "ap-south-1",
                         "customMetricsNamespaces": "",
-                        "assumeRoleArn": "arn:aws:iam::603461017249:role/grafana_role",
+                        "assumeRoleArn": "arn:aws:iam::60346101****:role/grafana_role",
                     }				
             }
         ]
